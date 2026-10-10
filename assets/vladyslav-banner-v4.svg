@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+<title id="title">Vladyslav Tkachuk — Software Engineer</title><desc id="desc">Think. Architect. Build. Dark violet developer banner with an elegant terminal, technology labels and a small cats easter egg.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B16"/><stop offset=".52" stop-color="#111426"/><stop offset="1" stop-color="#171129"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2=".25"><stop stop-color="#F7F4FF"/><stop offset=".48" stop-color="#C0A6FF"/><stop offset="1" stop-color="#8DC6FA"/></linearGradient>
+<linearGradient id="terminal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13192B"/><stop offset="1" stop-color="#0C1020"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#794ADB" stop-opacity=".35"/><stop offset="1" stop-color="#794ADB" stop-opacity="0"/></radialGradient>
+<pattern id="mesh" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A69CD8" stroke-opacity=".045"/></pattern>
+<filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="1400" height="460" rx="24" fill="url(#bg)"/><rect width="1400" height="460" rx="24" fill="url(#mesh)"/>
+<ellipse cx="1090" cy="205" rx="510" ry="370" fill="url(#halo)"/><ellipse cx="1290" cy="60" rx="240" ry="120" fill="#7C4DDA" opacity=".14" filter="url(#blur)"/>
+<path d="M52 55h33" stroke="#B9A0FD" stroke-width="3" stroke-linecap="round"/><text x="99" y="61" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" letter-spacing="2.3" fill="#ADA6CA">BACKEND / SOFTWARE ENGINEERING</text>
+<text x="55" y="165" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" letter-spacing="-2.8" fill="#F4F2FF">Vladyslav</text>
+<text x="55" y="240" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" letter-spacing="-2.8" fill="url(#accent)">Tkachuk<tspan fill="#A88DFA">.</tspan></text>
+<text x="58" y="294" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="600" fill="#E5DCF8">Think. Architect. Build.</text>
+<text x="59" y="327" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#AAA7C1">Reliable APIs. Thoughtful architecture. Real products.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600"><rect x="58" y="356" width="133" height="34" rx="9" fill="#24213C" stroke="#5B4C86"/><text x="77" y="378" fill="#D5C8FF">PHP / Laravel</text><rect x="201" y="356" width="158" height="34" rx="9" fill="#24213C" stroke="#5B4C86"/><text x="220" y="378" fill="#D5C8FF">Node.js / NestJS</text><rect x="369" y="356" width="81" height="34" rx="9" fill="#24213C" stroke="#5B4C86"/><text x="388" y="378" fill="#D5C8FF">Redis</text></g>
+<text x="58" y="425" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#777997">BUILDING SYSTEMS THAT LAST</text>
+<g transform="translate(702 51)">
+<rect width="642" height="357" rx="18" fill="url(#terminal)" stroke="#665283" stroke-width="1.6"/>
+<rect x="1" y="1" width="640" height="46" rx="17" fill="#1C2032"/><path d="M1 46H641" stroke="#433959"/>
+<circle cx="26" cy="24" r="6" fill="#F17981"/><circle cx="48" cy="24" r="6" fill="#E7C479"/><circle cx="70" cy="24" r="6" fill="#7ACDAA"/>
+<text x="321" y="29" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#B0AAC7">vladyslav@portfolio — zsh</text>
+<g font-family="Consolas,monospace" font-size="18">
+<text x="25" y="86" fill="#B99BFA">$ whoami</text><text x="25" y="111" fill="#E6E8F8">vladyslav_tkachuk</text>
+<text x="25" y="149" fill="#B99BFA">$ focus</text><text x="25" y="174" fill="#C4CADB">backend / architecture / integrations</text>
+<text x="25" y="212" fill="#B99BFA">$ building</text><text x="25" y="237" fill="#C4CADB">reliable systems</text>
+<text x="25" y="275" fill="#B99BFA">$ cat ~/secrets/pets.txt</text><text x="25" y="303" fill="#8BE5B5">3 cats. 0 regrets.</text>
+<text x="252" y="303" fill="#B6A0E9"> /\_/\   /\_/\   /\_/\</text>
+<text x="25" y="337" fill="#B99BFA">$</text><rect x="45" y="324" width="10" height="16" fill="#BA9CFF"/>
+</g>
+</g>
+<rect x=".75" y=".75" width="1398.5" height="458.5" rx="23.25" fill="none" stroke="#56466B" stroke-opacity=".9" stroke-width="1.5"/>
+</svg>
