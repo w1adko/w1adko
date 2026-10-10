@@ -1,8 +1,8 @@
 <div align="center">
 <img src="./assets/vladyslav-banner-v3.svg" width="100%" alt="Vladyslav Tkachuk - Software Engineer" />
 <br/><br/>
-<a href="./CV.md"><img src="https://img.shields.io/badge/VIEW_RESUME-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read CV" /></a>
-<a href="./docs/index.html"><img src="https://img.shields.io/badge/PORTFOLIO_PREVIEW-222238?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio source preview" /></a>
+<a href="https://w1adko.github.io/w1adko/resume.html"><img src="https://img.shields.io/badge/VIEW_RESUME-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read CV" /></a>
+<a href="https://w1adko.github.io/w1adko/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-222238?style=for-the-badge&logo=html5&logoColor=white" alt="Live portfolio" /></a>
 <a href="https://github.com/w1adko?tab=repositories"><img src="https://img.shields.io/badge/GITHUB_PROJECTS-222238?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </div>
 
