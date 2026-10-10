@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="Vlad Tkachuk Banner" width="100%" />
+</div>
 
-<!--
-**w1adko/w1adko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+# Hi, I'm Vlad 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer · Backend Developer · Product Builder
+
+I build backend systems, APIs and digital products.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Building backend services and digital products
+- 🧠 Interested in software architecture and scalable APIs
+- ⚙️ Working with Go, PHP, Laravel, Redis, Docker
+- 🎮 Exploring indie game development
+- 🇺🇦 Based in Ukraine
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,mysql,redis,docker,linux,git,github,githubactions,vscode&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w1adko&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1adko&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/w1adko/w1adko/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
