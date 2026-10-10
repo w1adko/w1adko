@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/vladyslav-banner-v2.svg" width="100%" alt="Vladyslav Tkachuk - Software Engineer" />
+<img src="./assets/vladyslav-banner-v3.svg" width="100%" alt="Vladyslav Tkachuk - Software Engineer" />
 <br/><br/>
 <a href="./CV.md"><img src="https://img.shields.io/badge/VIEW_RESUME-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read CV" /></a>
 <a href="./docs/index.html"><img src="https://img.shields.io/badge/PORTFOLIO_PREVIEW-222238?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio source preview" /></a>
@@ -12,7 +12,7 @@
 
 I'm **Vladyslav Tkachuk**, a back-end developer from Ukraine with experience across **mobile app APIs, fintech and payment integrations, analytics systems, CRM platforms, marketplaces, and asynchronous processing**.
 
-I work primarily with **PHP / Laravel and Node.js / NestJS**. I care about clean architecture, reliable systems and practical engineering. Outside commercial work I explore **Go** and develop **Ponchyk Games**.
+I work primarily with **PHP / Laravel and Node.js / NestJS**. I care about clean architecture, reliable systems and practical engineering. Outside commercial work I explore **Go** and modern backend architecture.
 
 <img src="./assets/portfolio-toolkit.svg" width="100%" alt="Tech toolkit" />
 
@@ -46,7 +46,7 @@ I work primarily with **PHP / Laravel and Node.js / NestJS**. I care about clean
 | **Analytics platforms** | Campaign tracking, custom reporting, query/index optimization |
 | **Real-time CRM** | Messaging integrations, lead tracking and Socket.IO |
 | **Push infrastructure** | Scheduled notification delivery, queues and event analytics |
-| **Ponchyk Games** | Independent mobile games and backend architecture *(in development)* |
+| **Backend architecture** | Service boundaries, performance and maintainable API design |
 
 These are **experience summaries**, not links to unpublished employer code.
 

@@ -18,7 +18,7 @@
 <path d="M68 330h350" stroke="#544B72" stroke-width="1"/>
 <text x="68" y="363" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#C7C3D9">Engineering</text>
 <circle cx="191" cy="357" r="3" fill="#A88AEE"/>
-<text x="208" y="363" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#C7C3D9">Building Ponchyk Games</text>
+<text x="208" y="363" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#C7C3D9">Backend Engineering</text>
 <text x="68" y="416" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#8A87A5">DESIGN SYSTEMS  /  BUILD PRODUCTS  /  SHIP IDEAS</text>
 <g transform="translate(746,66)">
 <rect x="0" y="0" width="596" height="331" rx="17" fill="#0C1120" stroke="#534870" stroke-width="1.5"/>
@@ -28,7 +28,7 @@
 <g font-family="monospace" font-size="18">
 <text x="26" y="81" fill="#AD90FF">$ whoami</text><text x="26" y="106" fill="#E9E9F5">vladyslav_tkachuk</text>
 <text x="26" y="143" fill="#AD90FF">$ focus</text><text x="26" y="168" fill="#CCD0E1">engineering / architecture / products</text>
-<text x="26" y="205" fill="#AD90FF">$ building</text><text x="26" y="230" fill="#CCD0E1">ponchyk games</text>
+<text x="26" y="205" fill="#AD90FF">$ building</text><text x="26" y="230" fill="#CCD0E1">reliable systems</text>
 <text x="26" y="267" fill="#AD90FF">$ cat ~/secrets/pets.txt</text>
 <text x="26" y="296" fill="#98E1BB">3 cats. 0 regrets.</text>
 <text x="258" y="296" fill="#B9A3FB"> /\_/\  /\_/\  /\_/\</text>

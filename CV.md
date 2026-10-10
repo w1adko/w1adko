@@ -9,7 +9,7 @@ Based in Ukraine · [GitHub](https://github.com/w1adko)
 
 Back-end developer experienced in building APIs for mobile applications, analytics platforms, CRM systems and online marketplaces. My work covers application business logic, database design, third-party integrations, background jobs, real-time messaging and performance-oriented data processing.
 
-I care about readable code, pragmatic technical decisions, reliable delivery and long-term maintainability. Beyond client-facing software, I am exploring Go services and building independent game products through **Ponchyk Games**.
+I care about readable code, pragmatic technical decisions, reliable delivery and long-term maintainability. Beyond commercial projects, I am exploring Go services and backend architecture.
 
 ## Core technologies
 
@@ -22,7 +22,7 @@ I care about readable code, pragmatic technical decisions, reliable delivery and
 | Background processing | BullMQ, RabbitMQ |
 | Tools | Docker, Git |
 | Engineering principles | SOLID, DRY, KISS, design patterns |
-| Current exploration | Go, MariaDB, standalone game backends |
+| Current exploration | Go, MariaDB, standalone services |
 
 ## Professional experience
 
@@ -96,9 +96,6 @@ Lead lifecycle, message synchronization, operator workflows, Socket.IO and jobs.
 
 ### Asynchronous notifications
 Push subscriptions, scheduled campaigns, event logging and queue-backed delivery.
-
-### Ponchyk Games
-Independent mobile game development and experiments in game backend architecture; **Cat Heist Match** is in development. Unreleased source code remains private.
 
 ## Engineering approach
 
