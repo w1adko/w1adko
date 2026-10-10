@@ -4,7 +4,7 @@
   const messages={
     help:'RECRUITER  recruiter · experience · skills · highlights · resume · contact · interview\nEXPLORE    whoami · projects · github · stack\nFUN        cats · cat status · coffee · fortune · roll · ascii · saymyname · sudo · vault\nSYSTEM     ls · date · history · clear · help',
     recruiter:'✦ RECRUITER MODE\nVladyslav Tkachuk — Back-End Developer, Ukraine\nExperience recorded since 2018 across marketplaces, CRM, tracking analytics & mobile APIs.\nMain stack: PHP/Laravel, Node.js/NestJS, MySQL, PostgreSQL, Redis, Docker.\nTry: highlights | experience | resume | contact | interview',
-    whoami:'hooligan\nThink. Architect. Build.',
+    whoami:'HOOLIGAN\nThink. Architect. Build.',
     stack:'PHP · Laravel · Symfony · Node.js · NestJS · Express\nMySQL · PostgreSQL · MongoDB · Redis · Manticore\nREST · Socket.IO · BullMQ · RabbitMQ · Docker · Git\nExploring Go and MariaDB.',
     skills:'BACKEND: PHP / Laravel / Symfony / Node.js / NestJS\nDATA: MySQL / PostgreSQL / MongoDB / Redis\nARCHITECTURE: APIs / background jobs / integrations / realtime / query optimization',
     experience:'2024–2025  Logic Fusion — mobile APIs, payments, Firebase, OpenAI\n2024–2025  Traffhunt — tracking analytics, CRM, PWA, push\n2023–2024  VIDI — credit calculator, Webpack\n2022–2023  Kronas — integrations, internal automation\n2018–2022  Technoskarb — marketplaces, payments\nNote: some CV employment dates overlap. View resume for details.',
