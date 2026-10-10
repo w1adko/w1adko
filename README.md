@@ -50,6 +50,26 @@ I work primarily with **PHP / Laravel and Node.js / NestJS**. I care about clean
 
 These are **experience summaries**, not links to unpublished employer code.
 
+### `05 / BEYOND BACKEND`
+
+<table><tr><td width="50%" valign="top">
+
+**🎮 Indie Game Development**
+
+Exploring mobile game development with **Unity and C#** — gameplay systems, match-3 mechanics, player progression, and how game clients connect to backends.
+
+*Personal projects / in development.*
+
+</td><td width="50%" valign="top">
+
+**📱 iOS App Development**
+
+Learning **Swift and SwiftUI** while prototyping native iOS app ideas, UI flows and product experiences.
+
+*Learning & prototyping, not a claim of commercial Swift experience.*
+
+</td></tr></table>
+
 <img src="./assets/portfolio-contact.svg" width="100%" alt="Connect" />
 
 <div align="center">
