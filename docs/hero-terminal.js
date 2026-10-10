@@ -3,7 +3,7 @@
   const target=document.getElementById('hero-terminal-output');
   if(!target||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
   const steps=[
-    ['whoami','hooligan','mint'],
+    ['whoami','HOOLIGAN','mint'],
     ['cat skills.txt','PHP · Laravel · Node.js · NestJS',''],
     ['cat cats.txt','Ванілька · Пончик · Зефірка','mint'],
     ['sudo make coffee','Permission denied. Cats are in charge.','warn']
