@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/vladyslav-banner-v3.svg" width="100%" alt="Vladyslav Tkachuk - Software Engineer" />
+<img src="./assets/vladyslav-banner-v4.svg" width="100%" alt="Vladyslav Tkachuk - Software Engineer" />
 <br/><br/>
 <a href="https://w1adko.github.io/w1adko/resume.html"><img src="https://img.shields.io/badge/VIEW_RESUME-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read CV" /></a>
 <a href="https://w1adko.github.io/w1adko/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-222238?style=for-the-badge&logo=html5&logoColor=white" alt="Live portfolio" /></a>
