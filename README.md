@@ -1,47 +1,93 @@
 <div align="center">
   <img src="./assets/vladyslav-banner-v2.svg" alt="Vladyslav Tkachuk — Software Engineer" width="100%" />
   <br/><br/>
-  <a href="https://github.com/w1adko"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-w1adko-171925?style=flat-square&logo=github&logoColor=white&labelColor=171925"/></a>
-  <img alt="Location: Ukraine" src="https://img.shields.io/badge/Based_in-Ukraine-171925?style=flat-square&labelColor=171925&color=6D5BD0"/>
-  <img alt="Focus: Backend Engineering" src="https://img.shields.io/badge/Focus-Backend_Engineering-171925?style=flat-square&labelColor=171925&color=6D5BD0"/>
+  <a href="./CV.md"><img src="https://img.shields.io/badge/VIEW_RESUME-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="View resume" /></a>
+  <a href="https://github.com/w1adko?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_CODE-1D2233?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Ukraine-171925?style=flat-square&labelColor=171925&color=6D5BD0" alt="Ukraine" />
+  <img src="https://img.shields.io/badge/Engineering-171925?style=flat-square&labelColor=171925&color=6D5BD0" alt="Engineering" />
+  <img src="https://img.shields.io/badge/Ponchyk_Games-171925?style=flat-square&labelColor=171925&color=6D5BD0" alt="Ponchyk Games" />
 </div>
 
 <br/>
 
-### `01.` About
+### `01 / HELLO WORLD`
 
-I’m a software engineer focused on building **reliable backends, clean APIs, and useful digital products**. I enjoy taking ideas from architecture to a working release — and exploring game development along the way.
+I'm **Vladyslav Tkachuk**, a software engineer based in Ukraine. I enjoy designing maintainable backends, shaping APIs and turning product ideas into working software.
 
-### `02.` Toolkit
+My interests span **backend engineering, system architecture, developer experience, and independent product development**. I also build games through **Ponchyk Games** — a creative space where software meets play.
+
+> **Think. Architect. Build.**
+
+### `02 / TECH TOOLKIT`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,mysql,postgres,redis,docker,linux,git,githubactions&perline=10" alt="Go, PHP, Laravel, databases, Redis, Docker, Linux, Git and GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,mysql,postgres,redis,docker,linux,git,githubactions&perline=10" alt="PHP Laravel Go MySQL PostgreSQL Redis Docker Linux Git GitHub Actions" />
 </div>
 
 <br/>
 
-### `03.` What I build
+| Area | Tools & interests |
+| :--- | :--- |
+| **Backend** | PHP · Laravel · Go · REST APIs |
+| **Data** | MariaDB / MySQL · PostgreSQL · Redis |
+| **Infrastructure** | Docker · Linux · Git · GitHub Actions |
+| **Engineering** | API design · maintainability · service architecture |
+
+### `03 / WHAT I WORK ON`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**`</>` Backend engineering**
+**⚙️ Backend systems**
 
-APIs, service architecture, data modeling and practical infrastructure.
+Building services with clear responsibilities, maintainable APIs and well-structured data.
 
 </td>
 <td width="50%" valign="top">
 
-**`✦` Product development**
+**🚀 Product engineering**
 
-From working prototypes to web products and indie game experiments.
+Bringing ideas through planning, prototyping and iterative implementation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 Ponchyk Games**
+
+Exploring mobile game development, gameplay systems and the technology behind connected games.
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 Software architecture**
+
+Interested in modular design, data flows, performance and pragmatic engineering trade-offs.
 
 </td>
 </tr>
 </table>
 
-### `04.` Contribution trail
+### `04 / EXPERIENCE & RESUME`
+
+I work across the backend development lifecycle: understanding requirements, designing application structure, implementing APIs, working with databases, and improving code quality.
+
+**Want the full professional overview?** Open my [resume draft →](./CV.md) for a structured overview of skills, engineering focus and experience sections.
+
+> 📝 **Portfolio in progress:** employment dates, verified outcomes, public project case studies and downloadable PDF will be added after review.
+
+### `05 / SELECTED DIRECTIONS`
+
+**Backend & APIs** — Engineering application backends and exploring standalone services with Go.
+
+**Indie game development** — Building the foundations for **Ponchyk Games**, including work on **Cat Heist Match**. Game repositories are private; details will be shared selectively as projects mature.
+
+**Building in public** — Sharing technical explorations and projects when they're ready for public release.
+
+### `06 / CONTRIBUTION TRAIL`
 
 <div align="center">
   <picture>
@@ -51,6 +97,11 @@ From working prototypes to web products and indie game experiments.
   </picture>
 </div>
 
+### `07 / CONNECT`
+
 <div align="center">
-  <sub>Code thoughtfully. Build consistently. Keep shipping.</sub>
+  <a href="https://github.com/w1adko"><img src="https://img.shields.io/badge/GitHub-w1adko-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub w1adko" /></a>
+  <a href="./CV.md"><img src="https://img.shields.io/badge/Resume-Read_more-6D5BD0?style=for-the-badge&logo=readme&logoColor=white" alt="Read resume" /></a>
+  <br/><br/>
+  <sub>Software is built one decision at a time. ✦ Also: 3 cats, 0 regrets.</sub>
 </div>
