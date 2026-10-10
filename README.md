@@ -1,47 +1,56 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Vlad Tkachuk Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Vlad Tkachuk — Software Engineer" width="100%" />
+  <br/><br/>
+  <a href="https://github.com/w1adko"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-w1adko-171925?style=flat-square&logo=github&logoColor=white&labelColor=171925"/></a>
+  <img alt="Location: Ukraine" src="https://img.shields.io/badge/Based_in-Ukraine-171925?style=flat-square&labelColor=171925&color=6D5BD0"/>
+  <img alt="Focus: Backend Engineering" src="https://img.shields.io/badge/Focus-Backend_Engineering-171925?style=flat-square&labelColor=171925&color=6D5BD0"/>
 </div>
 
-<br>
+<br/>
 
-# Hi, I'm Vlad 👋
+### `01.` About
 
-### Software Engineer · Backend Developer · Product Builder
+I’m a software engineer focused on building **reliable backends, clean APIs, and useful digital products**. I enjoy taking ideas from architecture to a working release — and exploring game development along the way.
 
-I build backend systems, APIs and digital products.
+### `02.` Toolkit
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,mysql,postgres,redis,docker,linux,git,githubactions&perline=10" alt="Go, PHP, Laravel, databases, Redis, Docker, Linux, Git and GitHub Actions" />
+</div>
 
-## 🚀 About Me
+<br/>
 
-- 🔭 Building backend services and digital products
-- 🧠 Interested in software architecture and scalable APIs
-- ⚙️ Working with Go, PHP, Laravel, Redis, Docker
-- 🎮 Exploring indie game development
-- 🇺🇦 Based in Ukraine
+### `03.` What I build
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠 Tech Stack
+**`</>` Backend engineering**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,mysql,redis,docker,linux,git,github,githubactions,vscode&perline=6" />
-</p>
+APIs, service architecture, data modeling and practical infrastructure.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+**`✦` Product development**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w1adko&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1adko&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+From working prototypes to web products and indie game experiments.
 
----
+</td>
+</tr>
+</table>
 
-## 🐍 Contribution Snake
+### `04.` Contribution trail
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/w1adko/w1adko/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w1adko/w1adko/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w1adko/w1adko/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/w1adko/w1adko/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Code thoughtfully. Build consistently. Keep shipping.</sub>
+</div>
