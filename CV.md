@@ -1,79 +1,116 @@
 # Vladyslav Tkachuk
 
-**Software Engineer · Backend Development · Product Engineering**  
-Ukraine · [GitHub](https://github.com/w1adko)
+**Back-End Developer · PHP · Node.js · APIs & Architecture**  
+Based in Ukraine · [GitHub](https://github.com/w1adko)
 
-> **Working draft:** This is a portfolio-friendly resume outline. Exact employers, dates, projects, seniority, performance metrics, education and contact links must be confirmed before using it for job applications.
+> Portfolio draft sourced from my CV. Employment history and project descriptions are pending a final personal review. Contact details are intentionally omitted from the public version.
 
-## Professional summary
+## Professional profile
 
-Software engineer with a focus on backend development, API design and practical system architecture. Interested in building maintainable applications, thoughtful database models, clear service boundaries and software that solves real product problems. Comfortable exploring new technologies and taking projects from early ideas toward implementation.
+Back-end developer experienced in building APIs for mobile applications, analytics platforms, CRM systems and online marketplaces. My work covers application business logic, database design, third-party integrations, background jobs, real-time messaging and performance-oriented data processing.
 
-## Technical profile
+I care about readable code, pragmatic technical decisions, reliable delivery and long-term maintainability. Beyond client-facing software, I am exploring Go services and building independent game products through **Ponchyk Games**.
 
-| Area | Technologies and focus |
+## Core technologies
+
+| Domain | Technologies |
 | --- | --- |
-| Backend | PHP, Laravel, Go, RESTful API design |
-| Databases | MariaDB / MySQL, PostgreSQL, Redis |
-| Engineering tools | Git, GitHub, Docker, Linux, GitHub Actions |
-| Practices and interests | Modular design, API integration, debugging, data modeling, code maintainability |
-| Product exploration | Web software, standalone backends, mobile game systems |
+| Languages | PHP, JavaScript, Node.js |
+| Frameworks | Laravel, Symfony 3.4, Yii, Express, NestJS |
+| Data | MySQL, PostgreSQL, MongoDB, Firebase, Redis, Manticore Search |
+| APIs & real-time | REST API, Socket.IO |
+| Background processing | BullMQ, RabbitMQ |
+| Tools | Docker, Git |
+| Engineering principles | SOLID, DRY, KISS, design patterns |
+| Current exploration | Go, MariaDB, standalone game backends |
 
-*Technology list is a draft to review for actual professional proficiency.*
+## Professional experience
 
-## Experience
+### Logic Fusion — Back-End Developer
+**May 2024 – Sep 2025**
 
-### Backend / Software Engineering — Experience overview
+Built back-end APIs for mobile applications from the ground up, including business logic, database structures and integrations with **Stripe, PayPal and Braintree**, **Firebase** push notifications and the **OpenAI API** for AI-powered features.
 
-*Company names, roles and employment dates to be confirmed.*
+**Stack:** Node.js, NestJS, Nuxt, PostgreSQL, Firebase, Redis, REST, Socket.IO, Docker, Git.
 
-Areas to develop into verified experience bullets:
+### Traffhunt — Back-End Developer
+**Feb 2024 – May 2025**
 
-- Designing and implementing backend application features and HTTP APIs.
-- Working with relational databases, data structures and application-level business rules.
-- Integrating services and organizing code for maintainable development.
-- Investigating bugs, improving reliability and iterating on solutions with product requirements in mind.
-- Collaborating around feature delivery and technical decisions.
+Worked on several backend-heavy products:
 
-> Replace these general responsibilities with **specific, truthful achievements**, including project context, your role, and measured outcomes where available.
+**Traffic tracking and campaign management platform**
+- Built APIs supporting campaigns, traffic sources, clicks, conversions and user-flow analytics.
+- Implemented segmentation, link-routing/cloaking logic, statistical aggregation and reporting.
+- Optimized data access through query and index improvements; added role-based permissions and project-level isolation.
+- **Stack:** PHP, Laravel, MySQL, Redis, Docker.
 
-### Additional experience
+**CRM and operator messaging**
+- Developed lead/contact management APIs and messaging integrations through Wazzup.
+- Worked on conversation history, operator assignment, deposits/activity analytics and Socket.IO-based realtime features.
+- Used Node.js clustering (PM2) and BullMQ for application workloads.
+- **Stack:** Node.js, NestJS, MySQL, Redis, Socket.IO, BullMQ.
 
-*Add confirmed previous roles here in reverse chronological order, including exact company, title, dates, stack and achievements.*
+**PWA builder**
+- Built API functionality for app configuration, theming, dynamic packaging, authentication and previews.
+- **Stack:** Node.js, NestJS, MySQL, Redis, BullMQ.
 
-## Selected work
+**Web push notifications platform**
+- Developed subscription, campaign, targeting and scheduling APIs.
+- Used MySQL for core data and MongoDB for delivery events and analytics, with background jobs for asynchronous processing.
+- **Stack:** Node.js, NestJS, MySQL, MongoDB, Firebase, Redis, BullMQ.
 
-### Ponchyk Games — Independent game development
+### VIDI — Back-End Developer
+**Mar 2023 – Feb 2024**
 
-An independent game development direction spanning gameplay, product planning and supporting software systems.
+- Built an internal credit calculator for interest rates, payment schedules and loan conditions.
+- Optimized frontend loading with Webpack: minification, code splitting, lazy loading and cache invalidation.
 
-- Exploring mobile game concepts, player progression and game-related backend architecture.
-- Working on **Cat Heist Match** as an evolving game project.
-- Game code and unreleased product details remain private.
+**Stack:** PHP, Symfony 3.4, MySQL, Redis, REST API, Docker, Git; JavaScript, Vue 2, Webpack 5.
 
-**Status:** In development / details to be refined.
+### Kronas — Back-End Developer
+**Oct 2022 – Mar 2023**
 
-### Backend engineering projects
+Developed internal APIs and background jobs supporting reporting, data synchronization, status updates and integrations between business systems.
 
-A place for carefully selected public case studies describing application requirements, architecture, your implementation contributions and technical decisions.
+**Stack:** PHP, Lumen API, MySQL, REST API, Docker, Git.
 
-**Status:** Projects and publication permissions to be confirmed.
+### Technoskarb — Back-End Developer
+**Jan 2018 – Oct 2022**
 
-## Approach to engineering
+Worked on online marketplace backends, including product catalogs, order flows, accounts, search and payment integrations:
+- Commission-based electronics marketplace, including **PrivatBank** and **Monobank** payments.
+- New/used goods marketplace with search and filtering, and **UAPAY** integration.
 
-I value readable code, simple interfaces, explicit responsibilities and architecture that serves the product rather than complicating it. I enjoy understanding how systems work end-to-end and improving them incrementally.
+**Stack:** PHP, Laravel, Node.js, Express, MySQL, Redis, Manticore Search, BullMQ, Docker, Git.
 
-## Education & languages
+## Selected technical case studies
 
-*To be completed with verified information.*
+### Payments & mobile APIs
+Mobile backend integrations with payments, push delivery and AI-driven functionality.
 
-## Contact
+### High-volume analytics
+Tracking APIs, campaign reports, custom aggregations and query/index tuning.
 
-- [GitHub profile](https://github.com/w1adko)
-- Email: *add your preferred public email*
-- LinkedIn: *add your public profile URL*
-- Location: Ukraine
+### Real-time CRM
+Lead lifecycle, message synchronization, operator workflows, Socket.IO and jobs.
+
+### Asynchronous notifications
+Push subscriptions, scheduled campaigns, event logging and queue-backed delivery.
+
+### Ponchyk Games
+Independent mobile game development and experiments in game backend architecture; **Cat Heist Match** is in development. Unreleased source code remains private.
+
+## Engineering approach
+
+I prefer clear domain boundaries, maintainable code, practical architecture and thoughtful debugging. My focus is building systems that can be understood, operated and improved over time.
+
+## Links
+
+- [GitHub](https://github.com/w1adko)
+- [Portfolio home](./README.md)
+
+*Public contact channels, education and languages may be added after review.*
 
 ---
 
-*Think. Architect. Build.*
+**Think. Architect. Build.**
