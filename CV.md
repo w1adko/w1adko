@@ -1,13 +1,13 @@
 # Vladyslav Tkachuk
 
-**Back-End Developer · PHP · Node.js · APIs & Architecture**  
+**Back-end Engineer · PHP · Node.js · APIs & Architecture**  
 Based in Ukraine · [GitHub](https://github.com/w1adko)
 
 > Portfolio draft sourced from my CV. Employment history and project descriptions are pending a final personal review. Contact details are intentionally omitted from the public version.
 
 ## Professional profile
 
-Back-end developer experienced in building APIs for mobile applications, analytics platforms, CRM systems and online marketplaces. My work covers application business logic, database design, third-party integrations, background jobs, real-time messaging and performance-oriented data processing.
+Back-end Engineer experienced in building APIs for mobile applications, analytics platforms, CRM systems and online marketplaces. My work covers application business logic, database design, third-party integrations, background jobs, real-time messaging and performance-oriented data processing.
 
 I care about readable code, pragmatic technical decisions, reliable delivery and long-term maintainability. Beyond commercial projects, I am exploring Go services and backend architecture.
 
@@ -26,14 +26,14 @@ I care about readable code, pragmatic technical decisions, reliable delivery and
 
 ## Professional experience
 
-### Logic Fusion — Back-End Developer
+### Logic Fusion — Back-end Engineer
 **May 2024 – Sep 2025**
 
 Built back-end APIs for mobile applications from the ground up, including business logic, database structures and integrations with **Stripe, PayPal and Braintree**, **Firebase** push notifications and the **OpenAI API** for AI-powered features.
 
 **Stack:** Node.js, NestJS, Nuxt, PostgreSQL, Firebase, Redis, REST, Socket.IO, Docker, Git.
 
-### Traffhunt — Back-End Developer
+### Traffhunt — Back-end Engineer
 **Feb 2024 – May 2025**
 
 Worked on several backend-heavy products:
@@ -59,7 +59,7 @@ Worked on several backend-heavy products:
 - Used MySQL for core data and MongoDB for delivery events and analytics, with background jobs for asynchronous processing.
 - **Stack:** Node.js, NestJS, MySQL, MongoDB, Firebase, Redis, BullMQ.
 
-### VIDI — Back-End Developer
+### VIDI — Back-end Engineer
 **Mar 2023 – Feb 2024**
 
 - Built an internal credit calculator for interest rates, payment schedules and loan conditions.
@@ -67,14 +67,14 @@ Worked on several backend-heavy products:
 
 **Stack:** PHP, Symfony 3.4, MySQL, Redis, REST API, Docker, Git; JavaScript, Vue 2, Webpack 5.
 
-### Kronas — Back-End Developer
+### Kronas — Back-end Engineer
 **Oct 2022 – Mar 2023**
 
 Developed internal APIs and background jobs supporting reporting, data synchronization, status updates and integrations between business systems.
 
 **Stack:** PHP, Lumen API, MySQL, REST API, Docker, Git.
 
-### Technoskarb — Back-End Developer
+### Technoskarb — Back-end Engineer
 **Jan 2018 – Oct 2022**
 
 Worked on online marketplace backends, including product catalogs, order flows, accounts, search and payment integrations:

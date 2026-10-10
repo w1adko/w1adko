@@ -10,7 +10,7 @@
 
 <img src="./assets/portfolio-about.svg" width="100%" alt="About" />
 
-I'm **Vladyslav Tkachuk**, a back-end developer from Ukraine with experience across **mobile app APIs, fintech and payment integrations, analytics systems, CRM platforms, marketplaces, and asynchronous processing**.
+I'm **Vladyslav Tkachuk**, a Back-end Engineer from Ukraine with experience across **mobile app APIs, fintech and payment integrations, analytics systems, CRM platforms, marketplaces, and asynchronous processing**.
 
 I work primarily with **PHP / Laravel and Node.js / NestJS**. I care about clean architecture, reliable systems and practical engineering. Outside commercial work I explore **Go** and modern backend architecture.
 
