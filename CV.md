@@ -97,6 +97,14 @@ Lead lifecycle, message synchronization, operator workflows, Socket.IO and jobs.
 ### Asynchronous notifications
 Push subscriptions, scheduled campaigns, event logging and queue-backed delivery.
 
+## Independent development & learning
+
+**Mobile games — Unity / C#**  
+Exploring independent mobile game development, including gameplay systems, match-3 mechanics, progression, and API-backed game functionality. These projects are in development and are separate from my commercial work.
+
+**Native iOS apps — Swift / SwiftUI**  
+Currently learning native iOS development and prototyping application concepts, interface flows, and mobile product ideas. This is a learning focus, not listed as professional Swift employment.
+
 ## Engineering approach
 
 I prefer clear domain boundaries, maintainable code, practical architecture and thoughtful debugging. My focus is building systems that can be understood, operated and improved over time.
