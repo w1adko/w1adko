@@ -3,7 +3,7 @@
   const history=[]; let historyPos=0, unlocked=false;
   const messages={
     help:'RECRUITER  recruiter · experience · skills · highlights · resume · contact · interview\nEXPLORE    whoami · projects · github · stack\nFUN        cats · cat status · coffee · fortune · roll · ascii · saymyname · sudo · vault\nSYSTEM     ls · date · history · clear · help',
-    recruiter:'✦ RECRUITER MODE\nVladyslav Tkachuk — Back-end Engineer, Ukraine\nExperience recorded since 2018 across marketplaces, CRM, tracking analytics & mobile APIs.\nMain stack: PHP/Laravel, Node.js/NestJS, MySQL, PostgreSQL, Redis, Docker.\nTry: highlights | experience | resume | contact | interview',
+    recruiter:'✦ RECRUITER MODE\nVladyslav Tkachuk — Backend Engineer, Ukraine\nExperience recorded since 2018 across marketplaces, CRM, tracking analytics & mobile APIs.\nMain stack: PHP/Laravel, Node.js/NestJS, MySQL, PostgreSQL, Redis, Docker.\nTry: highlights | experience | resume | contact | interview',
     whoami:'HOOLIGAN\nThink. Architect. Build.',
     stack:'PHP · Laravel · Symfony · Node.js · NestJS · Express\nMySQL · PostgreSQL · MongoDB · Redis · Manticore\nREST · Socket.IO · BullMQ · RabbitMQ · Docker · Git\nExploring Go and MariaDB.',
     skills:'BACKEND: PHP / Laravel / Symfony / Node.js / NestJS\nDATA: MySQL / PostgreSQL / MongoDB / Redis\nARCHITECTURE: APIs / background jobs / integrations / realtime / query optimization',
