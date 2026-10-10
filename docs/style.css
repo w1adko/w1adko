@@ -38,3 +38,20 @@
 @media(max-width:900px){.nav{display:flex;justify-content:space-between;gap:12px}.nav>nav{display:none}.nav-actions{margin-left:auto}.mobile-menu{display:block}}
 @media(max-width:440px){.nav{height:76px}.nav-resume{min-height:39px;padding:8px 11px;font-size:12px}.mobile-menu summary{padding:8px 10px;font-size:12px}.brand{font-size:19px}.brand-icon{font-size:13px}}
 @media(prefers-reduced-motion:reduce){.nav-resume,.nav>nav a::after{transition:none}}
+
+/* Fluid wide-screen layout: keep familiar laptop layout, use monitor width */
+@media(min-width:1440px){
+  .shell{width:calc(100% - clamp(80px,9vw,260px));max-width:none}
+  .hero{grid-template-columns:minmax(0,1fr) minmax(0,1.06fr);gap:clamp(64px,7vw,150px);min-height:min(780px,75vh);padding:75px 0 100px}
+  .hero-copy{max-width:760px}.hero h1{font-size:clamp(90px,6vw,132px)}
+  .hero-statement h2{font-size:clamp(46px,3.2vw,70px)}
+  .hero p{max-width:590px;font-size:clamp(17px,1.05vw,21px)}
+  .terminal-card{width:100%;max-width:900px;justify-self:end}
+  .terminal-body{padding:clamp(25px,2.2vw,44px);font-size:clamp(14px,1vw,19px)}
+  .terminal-bar{height:50px}
+  .section{padding:clamp(100px,7vw,155px) 0}
+  .project-grid{column-gap:clamp(20px,2vw,38px);row-gap:clamp(20px,2vw,38px)}
+  .project-grid article{padding:clamp(27px,2vw,44px)}
+  .console{max-width:1050px}
+}
+@media(min-width:2100px){.shell{width:calc(100% - 12vw)}.hero{min-height:850px}}
