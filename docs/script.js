@@ -2,7 +2,7 @@
   const form=document.querySelector('#console-form'), input=document.querySelector('#command'), log=document.querySelector('#console-log');
   const history=[]; let historyPos=0, unlocked=false;
   const messages={
-    help:'RECRUITER  recruiter · experience · skills · highlights · resume · contact · interview\nEXPLORE    whoami · projects · github · stack\nFUN        cats · coffee · fortune · roll · ascii · saymyname · sudo · vault\nSYSTEM     ls · date · history · clear · help',
+    help:'RECRUITER  recruiter · experience · skills · highlights · resume · contact · interview\nEXPLORE    whoami · projects · github · stack\nFUN        cats · cat status · coffee · fortune · roll · ascii · saymyname · sudo · vault\nSYSTEM     ls · date · history · clear · help',
     recruiter:'✦ RECRUITER MODE\nVladyslav Tkachuk — Back-End Developer, Ukraine\nExperience recorded since 2018 across marketplaces, CRM, tracking analytics & mobile APIs.\nMain stack: PHP/Laravel, Node.js/NestJS, MySQL, PostgreSQL, Redis, Docker.\nTry: highlights | experience | resume | contact | interview',
     whoami:'Vladyslav Tkachuk — Back-End Developer\nThink. Architect. Build.',
     stack:'PHP · Laravel · Symfony · Node.js · NestJS · Express\nMySQL · PostgreSQL · MongoDB · Redis · Manticore\nREST · Socket.IO · BullMQ · RabbitMQ · Docker · Git\nExploring Go and MariaDB.',
@@ -15,8 +15,12 @@
     interview:'INTERVIEW STARTER QUESTIONS\n• What tradeoffs matter when designing queue-backed push delivery?\n• How do you optimize analytics queries on large datasets?\n• How would you isolate tenants in a campaign management API?\nTopics drawn from projects described in my CV — not automated interview results.',
     hire:'I enjoy backend systems, APIs, integrations and pragmatic architecture. Type recruiter for a 30-second overview.',
     github:'github.com/w1adko — type "open github"',
-    cats:' /\\_/\\     /\\_/\\     /\\_/\\\n( o.o )   ( -.- )   ( ^.^ )\n > ^ <     > ^ <     > ^ <\n3 cats. 0 regrets.\nHint: a cat guards the vault...',
-    coffee:'  ( (\n   ) )\n ........\n |      |]\n \\      /\n  `----`\nRefactoring fuel +100.',
+    cats:'  /\\\\_/\\\\        /\\\\_/\\\\        /\\\\_/\\\\\\n ( o.o )      ( -.- )      ( ^.^ )\\n  > ^ <        > ^ <        > ^ <\\nВанілюша       Пончик       Зефірка\\n\\n3 cats. 0 regrets.\\nTry: cat status · cat vanilyusha · cat ponchyk · cat zefirka\\nHint: a cat guards the vault...',
+    'cat status':'🐈 Ванілюша — monitoring the keyboard\\n🍩 Пончик — deploying naps to production\\n☁️ Зефірка — reviewing the snack pipeline\\n\\nAll statuses are playful fiction. 3 cats. 0 regrets.',
+    'cat vanilyusha':'Ванілюша 🐈 — Chief Keyboard Officer.\\nStatus: purring near the server.',
+    'cat ponchyk':'Пончик 🍩 — Senior Nap Engineer.\\nStatus: sleeping through the standup.',
+    'cat zefirka':'Зефірка ☁️ — Head of Treat Quality Assurance.\\nStatus: all treats require retesting.',
+        coffee:'  ( (\n   ) )\n ........\n |      |]\n \\      /\n  `----`\nRefactoring fuel +100.',
     ascii:'██╗   ██╗████████╗\n██║   ██║╚══██╔══╝\n██║   ██║   ██║\n╚██╗ ██╔╝   ██║\n ╚████╔╝    ██║\n  ╚═══╝     ╚═╝',
     saymyname:"You're Heisenberg.\n...Or a developer exploring this terminal. 😎",
     sudo:'You are not in the sudoers file. This incident will be reported to the cats.',
