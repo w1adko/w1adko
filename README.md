@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Vlad Tkachuk — Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/w1adko/w1adko/master/assets/banner.svg?v=3" alt="Vladyslav Tkachuk — Software Engineer" width="100%" />
   <br/><br/>
   <a href="https://github.com/w1adko"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-w1adko-171925?style=flat-square&logo=github&logoColor=white&labelColor=171925"/></a>
   <img alt="Location: Ukraine" src="https://img.shields.io/badge/Based_in-Ukraine-171925?style=flat-square&labelColor=171925&color=6D5BD0"/>
