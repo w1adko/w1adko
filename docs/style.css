@@ -79,3 +79,6 @@
 /* Keep full name on one line only when the viewport has sufficient room */
 @media(min-width:1200px){.hero .hero-name{font-size:clamp(36px,3.15vw,54px);letter-spacing:-.045em;white-space:nowrap;line-height:1.12}}
 @media(max-width:1199px){.hero .hero-name span{display:block}}
+
+/* Toolkit 2.0: clear descriptions and separated technology stacks */
+.toolkit-intro{max-width:760px;margin:0 0 22px}.skill-groups .skill-description{color:#aaa4bd;font-size:14px;line-height:1.55;margin:8px 0 16px}.skill-groups .skill-stack{border-top:1px solid #3e3555;padding-top:14px;color:#c7b4ee;font-size:14px;line-height:1.7;margin-top:auto}.skill-groups>div{display:flex;flex-direction:column;min-width:0}.skill-groups h3{margin-top:0}
