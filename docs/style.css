@@ -75,3 +75,7 @@
 
 /* Hero auto-typing terminal: reserve output space to prevent layout shifts */
 .hero-terminal-body{min-width:0}.hero-terminal-output{height:310px;overflow:hidden;font:inherit}.hero-terminal-output p{margin:10px 0 2px}.hero-terminal-output p:first-child{margin-top:0}.hero-terminal-output .cmd{color:#b99cf9}.hero-terminal-output .result{color:#cdd2e6;overflow-wrap:anywhere}.hero-terminal-output .result.mint{color:#9bebc4}.hero-terminal-output .result.warn{color:#e3c385}.hero-terminal-output .prompt{color:#9d7bfa}.hero-terminal-output .typing-cursor{display:inline-block;width:8px;height:15px;margin-left:2px;background:#b99cf9;vertical-align:-2px;animation:blink 1s steps(2) infinite}.hero-terminal-output .line{min-height:1.5em}.hero-terminal-output .line.entry{color:#b99cf9}.hero-terminal-output .line.entry .prompt{font-weight:700}.hero-terminal-output .line.output{padding-left:0}.hero-terminal-body .terminal-hint{margin-top:8px}@media(max-width:600px){.hero-terminal-output{height:255px}.hero-terminal-output .typing-cursor{height:12px}}@media(prefers-reduced-motion:reduce){.hero-terminal-output .typing-cursor{animation:none}}
+
+/* Keep full name on one line only when the viewport has sufficient room */
+@media(min-width:1200px){.hero .hero-name{font-size:clamp(36px,3.15vw,54px);letter-spacing:-.045em;white-space:nowrap;line-height:1.12}}
+@media(max-width:1199px){.hero .hero-name span{display:block}}
